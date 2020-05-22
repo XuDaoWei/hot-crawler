@@ -1,5 +1,5 @@
 #domain: http://localhost:${server.port}
-domain: http://192.168.1.15:${server.port}
+domain: http://127.0.0.1:${server.port}
 crawler:
   task:
     enable: false
@@ -10,7 +10,7 @@ crawler:
   chromeDriver:
     enable: true
     linuxPath: "/hotcrawler/chromedriver"
-    winPath: "D:/chromedriver-75.exe"
+    winPath: "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe"
 #--------------------------------------------
 spring:
   cache:

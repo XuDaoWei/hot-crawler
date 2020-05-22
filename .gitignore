@@ -16,3 +16,8 @@ target
 
 # ignore idea files
 .idea
+!/hotcrawler.iml
+.scannerwork/
+hotcrawler-dev.2019-08-15.0.log
+hotcrawler.iml
+sonar-project.properties
