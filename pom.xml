@@ -195,6 +195,7 @@
             </resource>
         </resources>-->
         <defaultGoal>compile</defaultGoal>
+        <finalName>hotcrawler</finalName>
     </build>
 
 
