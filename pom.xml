@@ -194,6 +194,7 @@
                 <targetPath>static</targetPath>
             </resource>
         </resources>-->
+        <defaultGoal>compile</defaultGoal>
     </build>
 
 
